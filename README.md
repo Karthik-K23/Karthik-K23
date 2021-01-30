@@ -2,7 +2,8 @@
 
 ### ***Data Analytics is my passion. I have been working in the banking domain from 5 years and would like to follow my passion and become a data professional.  I want to transition into data professional from a banking background. When I was first starting out on my data professional journey I was extremely lost; I knew very few resources to learn about this field from. Now, as I have decided to explore this field further more, I am  showcasing all my skillsets and learning through this GitHub portfolio .***
 
-#### **Please find the descriptions of the Projects showcased in this portfolio:**
+### Please find the descriptions of the Projects showcased in this portfolio:
+
 
 ### **A. Sales-Insight:**
    Data Analysis Project using MySQL and Power BI Solving the problem of providing sales insight to the sales director of Atliq Hardware Company for decision support and automate them to reduce time spent in data gathering analysing and reporting using Power BI dashboard. Data analytics queries are run on MYSQL database to pull necessary information required to do data analysis and Create the required dashboard. Power BI is used to perform ETL and data cleaning operation to make data ready to build the dashboard.
